@@ -8,7 +8,7 @@ public class yavatmal_file {
 		Scanner sc = new Scanner (System.in);
 		int cash = sc.nextInt();
 		
-		System.out.println("kitna Rs. hai");
+		System.out.println("How money you cash");
 		if (cash >= 10) {
 			System.out.println("you get Only pen");
 		}
