@@ -17,7 +17,7 @@ public class yavatmal_file {
 			
 		}
 		else {
-			System.out.println("You need more csh");
+			System.out.println("You need more cash");
 		}
 
 	}
